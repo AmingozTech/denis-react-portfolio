@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/denis-react-portfolio/static/css/main.0171f730.css",
+    "main.js": "/denis-react-portfolio/static/js/main.fffc3882.js",
+    "static/media/codHome.jpg": "/denis-react-portfolio/static/media/codHome.6cdb10857eb4d8bc2e9c.jpg",
+    "static/media/project1.png": "/denis-react-portfolio/static/media/project1.64df6f405733aee1fe05.png",
+    "static/media/Home.jpeg": "/denis-react-portfolio/static/media/Home.8315126ca79ecf3393bf.jpeg",
+    "index.html": "/denis-react-portfolio/index.html",
+    "main.0171f730.css.map": "/denis-react-portfolio/static/css/main.0171f730.css.map",
+    "main.fffc3882.js.map": "/denis-react-portfolio/static/js/main.fffc3882.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0171f730.css",
+    "static/js/main.fffc3882.js"
+  ]
+}
