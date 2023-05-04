@@ -3,7 +3,7 @@ import './FooterStyles.css';
 import React from 'react';
 import {FaHome, FaPhone, FaMailBulk, FaFacebook, FaTwitter, FaLinkedin} from 'react-icons/fa';
 import { Link } from 'react-router-dom';
-import Typical from 'react-typical';
+//import Typical from 'react-typical';
 
 const Footer = () => {
   return (

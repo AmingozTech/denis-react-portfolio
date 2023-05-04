@@ -9,7 +9,8 @@
   /*transition: 0.2s;*/
 }
 body{
-  background: #000;
+  /*background: #000;*/
+  background:grey;
 }
 
 h1,h4,p,a{
